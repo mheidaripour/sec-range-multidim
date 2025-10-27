@@ -14,7 +14,8 @@
 
 
 ##  About <a name = "about"></a>
-The project involves conducting experiments related to the paper <a href="https://eprint.iacr.org/2024/635.pdf" rel="noopener">"Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption" Encryption</a>.
+<!-- The project involves conducting experiments related to the paper <a href="https://eprint.iacr.org/2024/635.pdf" rel="noopener">"Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption".</a> -->
+The project involves conducting experiments related to the paper ["Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption"](https://eprint.iacr.org/2024/635.pdf).
 
 ## 🏁 Dependencies <a name = "dependencies"></a>
 
