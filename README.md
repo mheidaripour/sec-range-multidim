@@ -3,8 +3,7 @@
  <img width=400px height=200px src="docs\Public_key_encryption_keys.svg.png" alt="Project logo"></a>
 </p>
 
-<h1 align="center">Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption</h1>
-
+<h1 align="center"><a href="https://eprint.iacr.org/2024/635.pdf" rel="noopener">Organizing Records for Retrieval in Multi-Dimensional Range Searchable Encryption</a></h1>
 
 ## 📝 Table of Contents
 
